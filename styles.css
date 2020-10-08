@@ -340,7 +340,7 @@ ul[id^="ui-id-"]:not(.message-header-neby) {
 
 [class^="ui-icon"]
 /* JQuery icon set */ {
-  background-image: var(--darkmode-jquery-icon-color) !important;
+  color: var(--darkmode-jquery-icon-color) !important;
 }
 
 [id^="ui-icon"] {

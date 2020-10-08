@@ -41,5 +41,5 @@
 
 .ui-widget-content .ui-icon {
   background-color: transparent !important;
-  background-image: var(--darkmode-jquery-icon-color) !important;
+  color: var(--darkmode-jquery-icon-color) !important;
 }
